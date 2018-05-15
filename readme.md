@@ -1,0 +1,1 @@
+example of vuex-axios with vuex-promise-middleware to handle api request
